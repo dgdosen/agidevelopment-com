@@ -68,12 +68,12 @@ JB :
     provider : disqus
     disqus :
       short_name : agidevelopment
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      apikey : 123
+    # livefyre :
+    #   site_id : 123
+    # intensedebate :
+    #   account : 123abc
+    # facebook :
+    #   apikey : 123
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
